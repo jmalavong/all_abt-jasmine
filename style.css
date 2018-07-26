@@ -1,12 +1,13 @@
 body(
   background-color: #d5e1df;
   padding: 30px;
+  color: black;
 )
-nav (
+nav {
   padding: 30px;
   background-color:  #d6cbd3;
   position: sticky;
   top: 0;
   text-shadow: 1px 1px 0 #444;
   color: white;
-)
+{
